@@ -1,2 +1,2 @@
-# dio-kotlin-java
+# Repositório da DIO
 Bootcamp de Kotlin/Java
